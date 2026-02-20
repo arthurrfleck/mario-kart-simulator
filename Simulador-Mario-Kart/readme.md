@@ -29,7 +29,7 @@ Projeto focado em lógica de programação, estrutura de jogo, fluxo assíncrono
 <tr>
 <td style="border: 1px solid black; text-align: center;">
 <p><b>Mario</b></p>
-<img src="./docs/mario.gif" width="60">
+<img src="./docs/mario.gif" width="110">
 </td>
 
 <td style="border: 1px solid black; text-align: center;">
@@ -67,7 +67,7 @@ Projeto focado em lógica de programação, estrutura de jogo, fluxo assíncrono
 <tr>
 <td style="border: 1px solid black; text-align: center;">
 <p><b>Bowser</b></p>
-<img src="./docs/bowser.gif" width="150">
+<img src="./docs/bowser.gif" width="110">
 </td>
 
 <td style="border: 1px solid black; text-align: center;">
@@ -79,7 +79,7 @@ Projeto focado em lógica de programação, estrutura de jogo, fluxo assíncrono
 
 <td style="border: 1px solid black; text-align: center;">
 <p><b>Luigi</b></p>
-<img src="./docs/luigi.gif" width="150">
+<img src="./docs/luigi.gif" width="110">
 </td>
 
 <td style="border: 1px solid black; text-align: center;">
@@ -91,7 +91,7 @@ Projeto focado em lógica de programação, estrutura de jogo, fluxo assíncrono
 
 <td style="border: 1px solid black; text-align: center;">
 <p><b>Donkey Kong</b></p>
-<img src="./docs/dk.gif" width="150">
+<img src="./docs/dk.gif" width="110">
 </td>
 
 <td style="border: 1px solid black; text-align: center;">
